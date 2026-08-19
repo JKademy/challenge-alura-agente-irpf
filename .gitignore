@@ -1,0 +1,13 @@
+# Cache do Python e do Streamlit
+__pycache__/
+.streamlit/
+.pytest_cache/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+Categoria_de_Gasto,Modelo_Completo,Modelo_Simplificado
+Desconto Automático,Não há. Depende da soma dos seus recibos.,20% de desconto fixo sobre os rendimentos.
+Limite do Desconto,Sem teto global (acumula as regras abaixo).,"Limitado ao teto máximo de R$ 17.640,00."
+Dependentes (Filhos/Pais),"Abatimento fixo de R$ 2.275,08 por pessoa.",Já incluso no desconto de 20% (não muda o valor).
+"Saúde (Planos, Médicos)",Sem limite máximo. Deduz 100% dos recibos.,Já incluso no desconto de 20% (não muda o valor).
+Educação (Escola/Faculdade),"Limite máximo de R$ 3.561,50 por pessoa.",Já incluso no desconto de 20% (não muda o valor).
+Previdência Privada (PGBL),Abate até 12% da sua renda tributável bruta.,Não permite abatimento extra (perde o benefício).
+Exigência de Recibos,Obrigatório guardar notas e recibos por 5 anos.,Dispensável. Não precisa comprovar os gastos.

@@ -1,0 +1,6 @@
+Tipo_Tabela,Faixa_Base_Calculo_Anual,Aliquota_Percentual,Parcela_A_Deduzir_Anual
+Anual_Ex2026_AC2025,Ate_28467.20,0.0,0.00
+Anual_Ex2026_AC2025,De_28467.21_ate_33919.80,7.5,2135.04
+Anual_Ex2026_AC2025,De_33919.81_ate_45012.60,15.0,4679.03
+Anual_Ex2026_AC2025,De_45012.61_ate_55976.16,22.5,8054.97
+Anual_Ex2026_AC2025,Acima_de_55976.16,27.5,10853.78
