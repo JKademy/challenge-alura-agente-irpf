@@ -28,6 +28,8 @@ Para garantir respostas matemáticas exatas e **evitar que a IA delire ou invent
 * `Tabela_compara_compl_simpl_IRPF2026.csv`: Matriz comparativa entre os modelos Completo e Simplificado.
 * `requirements.txt`: Dependências de instalação do sistema.
 * `.gitignore`: Filtro de exclusão de arquivos de sistema (como arquivos de cache e chaves SSH privadas).
+* `.demonstracao.png`: Imagem com a evidência visual da interface e funcionamento do Agente em tempo real.
+
 
 ## 📸 Guia de Prompts para Testes (Comportamento Real do Agente)
 
