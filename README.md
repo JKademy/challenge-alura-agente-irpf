@@ -43,4 +43,4 @@ Sugerimos que a banca avaliadora realize os seguintes prompts de teste para comp
   * *Prompt:* "quem venceu a copa de 2026?"
   * *Resposta Real:* O agente barrará o assunto imediatamente devolvendo a frase exata de segurança: **"Não localizei essa informação nos manuais oficiais."** [📄] Isso comprova a resiliência e a blindagem da nossa janela de contexto contra alucinações.
 ## 📸 Demonstração do Funcionamento
-![Demonstração do Agente Inteligente](demonstracao.png)  
+![Demonstração do Agente Inteligente](demonstracao.png)
